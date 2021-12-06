@@ -1,2 +1,2 @@
 # LSGL
-code of LSGL: mirflickr data set larger than 25mb cannot be uploaded temporarily
+code: Multi-Label Label-Specific Features Learning via Global and Local Label Correlations
